@@ -1,5 +1,8 @@
 # KmailDRA
 python3 gmail automatic sender
+BEFORE USING THIS TOOL, PLEASE READ:
+https://hotter.io/docs/email-accounts/secure-app-gmail/
+otherwise it won't work
 
 # DOWNLOAD
 Using git:
